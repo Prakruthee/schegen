@@ -1,0 +1,10 @@
+require "rare_map"
+
+system('raremap')
+
+puts "exicuting raremap"
+
+system('ls')
+system('bundle exec rake db:migrate')
+
+puts "migration done!!!"
