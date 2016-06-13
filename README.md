@@ -18,13 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-Schgen is my first gem. I created this gem when I was preparing for a lightning talk on `reverse engineering` to present in [RubyConf India 2016](http://rubyconfindia.org/).
-[lightning talk ppt](http://www.slideshare.net/PrakruthiSudanandapp/reversengineering-62992566)
+Schgen is my first gem. I created this gem when I was preparing for a lightning talk on [reverse engineering](http://www.slideshare.net/PrakruthiSudanandapp/reversengineering-62992566) to present in [RubyConf India 2016](http://rubyconfindia.org/).
 
 
 ###When shcegen can be used?
 	
-scegen gen was built on the concept `reverse egngineerin of rails models`. This gem can be used when you want to replicate a database form one prject to other. 
+scegen was built on the concept `reverse egngineerin of rails models`. This gem can be used when you want to replicate a database form one prject to other.  
 
 
 
